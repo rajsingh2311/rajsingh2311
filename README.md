@@ -15,6 +15,6 @@ I turn messy data into decisions, and repetitive work into automations.
 
 ### Find me
 - 💼 LinkedIn: [linkedin.com/in/riteshsingh-analytics](https://www.linkedin.com/in/riteshsingh-analytics/)
-- 🌐 Portfolio: [rajsingh2311.github.io/Er.Riteshsingh.analytics](https://rajsingh2311.github.io/Er.Riteshsingh.analytics/)
+- 🌐 Portfolio: [riteshsingh.is-a.dev](https://riteshsingh.is-a.dev/)
 
 *Chemical engineer turned data analyst: engineering taught me to think in processes, analytics to measure them, automation to fix them.*
